@@ -45,3 +45,8 @@ Ensure you have Python installed on your system.
 ## Data Storage
 The application creates and maintains a blockchain stored on disk, ensuring a secure and immutable record of patient data.
 
+## 
+I would like to conlcude saying that although  the frontend is not that eye catching , we are still in learning phase and also in first year well make sure to add some better value in the upcoming years
+
+https://drive.google.com/file/d/1hOA9-Auw5odd3b_vbOLIv39bfFcmTeUM/view?usp=drive_link  # demo1
+https://drive.google.com/file/d/1VrJtKBh0c7A35LUKbPo2Y7f3erBfd2xg/view?usp=drive_link   #demo 2 
